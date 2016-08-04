@@ -1,0 +1,40 @@
+_repo: Edison--His-Life-and-Inventions_820
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Martin, Thomas Commerford
+    alias: Martin, T. C. (Thomas Commerford)
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '429'
+    url: http://www.gutenberg.org/2009/agents/429
+  - agent_name: Dyer, Frank Lewis
+    birthdate: 1870
+    deathdate: 1941
+    gutenberg_agent_id: '428'
+    url: http://www.gutenberg.org/2009/agents/428
+description: Thomas Alva Edison (February 11, 1847 - October 18, 1931) was an American
+  inventor, scientist, and businessman who developed many devices that greatly influenced
+  life around the world, including the phonograph, the motion picture camera, the
+  stock ticker, electric power, recorded music, the mechanical vote recorder and the
+  light bulb, among many others. This biography discusses many facets of Edison's
+  life such as his boyhood years in Port Huron, Michigan, his time as a young telegraph
+  operator, his time working and inventing in Boston, his inventing of the stock ticker,
+  the phonograph, the telephone, the microphone, and the light bulb. You will learn
+  of his world wide search for a supply of filament, and many details of his life
+  not covered in other works of his life. -Amazon.com.
+gutenberg_issued: '2006-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '820'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inventors -- United States -- Biography'
+- !lcc 'TK'
+- !lcsh 'Edison, Thomas A. (Thomas Alva), 1847-1931'
+- GITenberg
+title: 'Edison: His Life and Inventions'
+url: http://www.gutenberg.org/ebooks/820
