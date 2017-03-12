@@ -1,5 +1,8 @@
 _repo: Edison--His-Life-and-Inventions_820
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Martin, Thomas Commerford
@@ -23,6 +26,8 @@ description: Thomas Alva Edison (February 11, 1847 - October 18, 1931) was an Am
   the phonograph, the telephone, the microphone, and the light bulb. You will learn
   of his world wide search for a supply of filament, and many details of his life
   not covered in other works of his life. -Amazon.com.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/820#Edison--His-Life-and-Inventions
 gutenberg_issued: '2006-01-21'
 gutenberg_type: Text
 identifiers:
